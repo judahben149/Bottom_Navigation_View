@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_fragment">Home fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="settings_fragment">Settings Fragment</string>
+</resources>
